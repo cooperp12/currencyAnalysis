@@ -1,0 +1,1037 @@
+[
+    {
+        "Date": "2008-10-24",
+        "CurrencyCode": {
+            "USD": {
+                "AUDPerUnit": 1.6119941169,
+                "UnitsPerAUD": 0.6203496585
+            },
+            "EUR": {
+                "AUDPerUnit": 2.0370102983,
+                "UnitsPerAUD": 0.4909155348
+            },
+            "GBP": {
+                "AUDPerUnit": 2.5606345616,
+                "UnitsPerAUD": 0.3905281976
+            },
+            "CAD": {
+                "AUDPerUnit": 1.2666433046,
+                "UnitsPerAUD": 0.7894882453
+            },
+            "AUD": {
+                "AUDPerUnit": 1,
+                "UnitsPerAUD": 1
+            },
+            "JPY": {
+                "AUDPerUnit": 0.017065999,
+                "UnitsPerAUD": 58.5960422414
+            },
+            "INR": {
+                "AUDPerUnit": 0.0323043619,
+                "UnitsPerAUD": 30.9555719942
+            },
+            "NZD": {
+                "AUDPerUnit": 0.8993896133,
+                "UnitsPerAUD": 1.1118651863
+            },
+            "CHF": {
+                "AUDPerUnit": 1.3834157926,
+                "UnitsPerAUD": 0.7228484779
+            },
+            "ZAR": {
+                "AUDPerUnit": 0.1464623911,
+                "UnitsPerAUD": 6.8276913453
+            },
+            "AFN": {
+                "AUDPerUnit": 0.0343651375,
+                "UnitsPerAUD": 29.0992579678
+            },
+            "ALL": {
+                "AUDPerUnit": 0.016535817,
+                "UnitsPerAUD": 60.474786462
+            },
+            "DZD": {
+                "AUDPerUnit": 0.0253259085,
+                "UnitsPerAUD": 39.485256728
+            },
+            "ARS": {
+                "AUDPerUnit": 0.4912202025,
+                "UnitsPerAUD": 2.0357468907
+            },
+            "BSD": {
+                "AUDPerUnit": 1.6119941169,
+                "UnitsPerAUD": 0.6203496585
+            },
+            "BHD": {
+                "AUDPerUnit": 4.2758464181,
+                "UnitsPerAUD": 0.2338718238
+            },
+            "BDT": {
+                "AUDPerUnit": 0.023498457,
+                "UnitsPerAUD": 42.5559856287
+            },
+            "BBD": {
+                "AUDPerUnit": 0.8080171012,
+                "UnitsPerAUD": 1.2375975688
+            },
+            "BMD": {
+                "AUDPerUnit": 1.6119941169,
+                "UnitsPerAUD": 0.6203496585
+            },
+            "BRL": {
+                "AUDPerUnit": 0.6943760799,
+                "UnitsPerAUD": 1.4401417747
+            },
+            "BGN": {
+                "AUDPerUnit": 1.0412725853,
+                "UnitsPerAUD": 0.9603633229
+            },
+            "XOF": {
+                "AUDPerUnit": 0.0031054022,
+                "UnitsPerAUD": 322.0194814663
+            },
+            "XAF": {
+                "AUDPerUnit": 0.0031054022,
+                "UnitsPerAUD": 322.0194814663
+            },
+            "XPF": {
+                "AUDPerUnit": 0.0170701463,
+                "UnitsPerAUD": 58.5818060631
+            },
+            "CLP": {
+                "AUDPerUnit": 0.0024057819,
+                "UnitsPerAUD": 415.6652811269
+            },
+            "CNY": {
+                "AUDPerUnit": 0.2355270277,
+                "UnitsPerAUD": 4.2457972223
+            },
+            "COP": {
+                "AUDPerUnit": 0.0006818926,
+                "UnitsPerAUD": 1466.5065927701
+            },
+            "CRC": {
+                "AUDPerUnit": 0.002893831,
+                "UnitsPerAUD": 345.5626755371
+            },
+            "HRK": {
+                "AUDPerUnit": 0.2801031527,
+                "UnitsPerAUD": 3.5701133322
+            },
+            "CYP": {
+                "AUDPerUnit": 3.4804387318,
+                "UnitsPerAUD": 0.2873200987
+            },
+            "CZK": {
+                "AUDPerUnit": 0.0825558324,
+                "UnitsPerAUD": 12.1130145638
+            },
+            "DKK": {
+                "AUDPerUnit": 0.2733238034,
+                "UnitsPerAUD": 3.6586641473
+            },
+            "DOP": {
+                "AUDPerUnit": 0.0458930709,
+                "UnitsPerAUD": 21.7897817559
+            },
+            "XCD": {
+                "AUDPerUnit": 0.615264957,
+                "UnitsPerAUD": 1.6253160344
+            },
+            "EGP": {
+                "AUDPerUnit": 0.2880714095,
+                "UnitsPerAUD": 3.4713614988
+            },
+            "EEK": {
+                "AUDPerUnit": 0.1301883534,
+                "UnitsPerAUD": 7.6811786436
+            },
+            "FJD": {
+                "AUDPerUnit": 0.89877289,
+                "UnitsPerAUD": 1.1126281301
+            },
+            "XAU": {
+                "AUDPerUnit": 1172.7853031021,
+                "UnitsPerAUD": 0.000852671
+            },
+            "HKD": {
+                "AUDPerUnit": 0.2079615749,
+                "UnitsPerAUD": 4.8085806256
+            },
+            "HUF": {
+                "AUDPerUnit": 0.0074264189,
+                "UnitsPerAUD": 134.6544022337
+            },
+            "ISK": {
+                "AUDPerUnit": 0.01339617,
+                "UnitsPerAUD": 74.6482019523
+            },
+            "XDR": {
+                "AUDPerUnit": 2.4136254083,
+                "UnitsPerAUD": 0.4143144983
+            },
+            "IDR": {
+                "AUDPerUnit": 0.0001610682,
+                "UnitsPerAUD": 6208.5501390374
+            },
+            "IRR": {
+                "AUDPerUnit": 0.0001635206,
+                "UnitsPerAUD": 6115.4379512933
+            },
+            "IQD": {
+                "AUDPerUnit": 0.0013770666,
+                "UnitsPerAUD": 726.181297683
+            },
+            "ILS": {
+                "AUDPerUnit": 0.4224674766,
+                "UnitsPerAUD": 2.3670461167
+            },
+            "JMD": {
+                "AUDPerUnit": 0.0222959076,
+                "UnitsPerAUD": 44.8512803119
+            },
+            "JOD": {
+                "AUDPerUnit": 2.2736165535,
+                "UnitsPerAUD": 0.4398279026
+            },
+            "KES": {
+                "AUDPerUnit": 0.0202384694,
+                "UnitsPerAUD": 49.4108512487
+            },
+            "KWD": {
+                "AUDPerUnit": 5.9827561973,
+                "UnitsPerAUD": 0.1671470418
+            },
+            "LBP": {
+                "AUDPerUnit": 0.0010725177,
+                "UnitsPerAUD": 932.3855367739
+            },
+            "MYR": {
+                "AUDPerUnit": 0.4492411448,
+                "UnitsPerAUD": 2.2259759855
+            },
+            "MTL": {
+                "AUDPerUnit": 4.7449576014,
+                "UnitsPerAUD": 0.2107500391
+            },
+            "MUR": {
+                "AUDPerUnit": 0.0515838117,
+                "UnitsPerAUD": 19.3859268291
+            },
+            "MXN": {
+                "AUDPerUnit": 0.119799857,
+                "UnitsPerAUD": 8.3472553739
+            },
+            "MAD": {
+                "AUDPerUnit": 0.1841787515,
+                "UnitsPerAUD": 5.4295079747
+            },
+            "NGN": {
+                "AUDPerUnit": 0.0136725538,
+                "UnitsPerAUD": 73.1392256875
+            },
+            "NOK": {
+                "AUDPerUnit": 0.2298359375,
+                "UnitsPerAUD": 4.350929671
+            },
+            "OMR": {
+                "AUDPerUnit": 4.1875414127,
+                "UnitsPerAUD": 0.2388036085
+            },
+            "PKR": {
+                "AUDPerUnit": 0.019947954,
+                "UnitsPerAUD": 50.1304543915
+            },
+            "XPD": {
+                "AUDPerUnit": 273.2330026463,
+                "UnitsPerAUD": 0.00365988
+            },
+            "PEN": {
+                "AUDPerUnit": 0.5183261001,
+                "UnitsPerAUD": 1.929287373
+            },
+            "PHP": {
+                "AUDPerUnit": 0.0329814001,
+                "UnitsPerAUD": 30.3201197614
+            },
+            "XPT": {
+                "AUDPerUnit": 1287.1772943154,
+                "UnitsPerAUD": 0.0007768938
+            },
+            "PLN": {
+                "AUDPerUnit": 0.532042781,
+                "UnitsPerAUD": 1.8795481033
+            },
+            "QAR": {
+                "AUDPerUnit": 0.4427946948,
+                "UnitsPerAUD": 2.2583829745
+            },
+            "RON": {
+                "AUDPerUnit": 0.5608218637,
+                "UnitsPerAUD": 1.7830973874
+            },
+            "RUB": {
+                "AUDPerUnit": 0.0592514165,
+                "UnitsPerAUD": 16.8772336438
+            },
+            "SAR": {
+                "AUDPerUnit": 0.4304014247,
+                "UnitsPerAUD": 2.3234123833
+            },
+            "XAG": {
+                "AUDPerUnit": 14.8690581205,
+                "UnitsPerAUD": 0.0672537555
+            },
+            "SGD": {
+                "AUDPerUnit": 1.0711749994,
+                "UnitsPerAUD": 0.933554275
+            },
+            "SKK": {
+                "AUDPerUnit": 0.0668820142,
+                "UnitsPerAUD": 14.9517028108
+            },
+            "KRW": {
+                "AUDPerUnit": 0.0011272048,
+                "UnitsPerAUD": 887.1502666282
+            },
+            "LKR": {
+                "AUDPerUnit": 0.0149231084,
+                "UnitsPerAUD": 67.0101680322
+            },
+            "SDG": {
+                "AUDPerUnit": 0.7588711595,
+                "UnitsPerAUD": 1.3177467447
+            },
+            "SEK": {
+                "AUDPerUnit": 0.2040303963,
+                "UnitsPerAUD": 4.9012304942
+            },
+            "TWD": {
+                "AUDPerUnit": 0.0481663847,
+                "UnitsPerAUD": 20.7613672219
+            },
+            "THB": {
+                "AUDPerUnit": 0.0464445707,
+                "UnitsPerAUD": 21.531041958
+            },
+            "TTD": {
+                "AUDPerUnit": 0.2642396717,
+                "UnitsPerAUD": 3.7844430919
+            },
+            "TND": {
+                "AUDPerUnit": 1.1732979478,
+                "UnitsPerAUD": 0.852298431
+            },
+            "TRY": {
+                "AUDPerUnit": 0.951872179,
+                "UnitsPerAUD": 1.0505612225
+            },
+            "AED": {
+                "AUDPerUnit": 0.4387693206,
+                "UnitsPerAUD": 2.2791019175
+            },
+            "VEF": {
+                "AUDPerUnit": 0.7507074545,
+                "UnitsPerAUD": 1.3320768218
+            },
+            "VND": {
+                "AUDPerUnit": 0.0000958095,
+                "UnitsPerAUD": 10437.3830048041
+            },
+            "ZMK": {
+                "AUDPerUnit": 0.0003655315,
+                "UnitsPerAUD": 2735.741994127
+            }
+        }
+    },
+    {
+        "Date": "2008-10-28",
+        "CurrencyCode": {
+            "USD": {
+                "AUDPerUnit": 1.5705999374,
+                "UnitsPerAUD": 0.6366993759
+            },
+            "EUR": {
+                "AUDPerUnit": 1.9794877553,
+                "UnitsPerAUD": 0.5051812002
+            },
+            "GBP": {
+                "AUDPerUnit": 2.4815663675,
+                "UnitsPerAUD": 0.4029712899
+            },
+            "CAD": {
+                "AUDPerUnit": 1.2161665444,
+                "UnitsPerAUD": 0.8222558042
+            },
+            "AUD": {
+                "AUDPerUnit": 1,
+                "UnitsPerAUD": 1
+            },
+            "JPY": {
+                "AUDPerUnit": 0.0161111797,
+                "UnitsPerAUD": 62.0687011705
+            },
+            "INR": {
+                "AUDPerUnit": 0.0316783701,
+                "UnitsPerAUD": 31.5672806578
+            },
+            "NZD": {
+                "AUDPerUnit": 0.8786434321,
+                "UnitsPerAUD": 1.1381181074
+            },
+            "CHF": {
+                "AUDPerUnit": 1.3559082833,
+                "UnitsPerAUD": 0.7375130105
+            },
+            "ZAR": {
+                "AUDPerUnit": 0.1502661612,
+                "UnitsPerAUD": 6.6548582317
+            },
+            "AFN": {
+                "AUDPerUnit": 0.0334892454,
+                "UnitsPerAUD": 29.8603324174
+            },
+            "ALL": {
+                "AUDPerUnit": 0.0159200444,
+                "UnitsPerAUD": 62.8138952815
+            },
+            "DZD": {
+                "AUDPerUnit": 0.0245367893,
+                "UnitsPerAUD": 40.7551284701
+            },
+            "ARS": {
+                "AUDPerUnit": 0.47104997,
+                "UnitsPerAUD": 2.1229170229
+            },
+            "BSD": {
+                "AUDPerUnit": 1.5705999374,
+                "UnitsPerAUD": 0.6366993759
+            },
+            "BHD": {
+                "AUDPerUnit": 4.1675953081,
+                "UnitsPerAUD": 0.2399465222
+            },
+            "BDT": {
+                "AUDPerUnit": 0.0228617177,
+                "UnitsPerAUD": 43.7412451829
+            },
+            "BBD": {
+                "AUDPerUnit": 0.7872681391,
+                "UnitsPerAUD": 1.270215255
+            },
+            "BMD": {
+                "AUDPerUnit": 1.5705999374,
+                "UnitsPerAUD": 0.6366993759
+            },
+            "BRL": {
+                "AUDPerUnit": 0.7259532412,
+                "UnitsPerAUD": 1.3774991877
+            },
+            "BGN": {
+                "AUDPerUnit": 1.0115623094,
+                "UnitsPerAUD": 0.9885698495
+            },
+            "XOF": {
+                "AUDPerUnit": 0.0030177096,
+                "UnitsPerAUD": 331.3771445318
+            },
+            "XAF": {
+                "AUDPerUnit": 0.0030177096,
+                "UnitsPerAUD": 331.3771445318
+            },
+            "XPF": {
+                "AUDPerUnit": 0.0165881074,
+                "UnitsPerAUD": 60.2841527671
+            },
+            "CLP": {
+                "AUDPerUnit": 0.0023194268,
+                "UnitsPerAUD": 431.1409979513
+            },
+            "CNY": {
+                "AUDPerUnit": 0.2296217145,
+                "UnitsPerAUD": 4.3549888223
+            },
+            "COP": {
+                "AUDPerUnit": 0.0006525135,
+                "UnitsPerAUD": 1532.5353978488
+            },
+            "CRC": {
+                "AUDPerUnit": 0.0028480243,
+                "UnitsPerAUD": 351.1206048407
+            },
+            "HRK": {
+                "AUDPerUnit": 0.2759091578,
+                "UnitsPerAUD": 3.6243813283
+            },
+            "CYP": {
+                "AUDPerUnit": 3.382155632,
+                "UnitsPerAUD": 0.2956694218
+            },
+            "CZK": {
+                "AUDPerUnit": 0.0817623052,
+                "UnitsPerAUD": 12.2305749308
+            },
+            "DKK": {
+                "AUDPerUnit": 0.2656977757,
+                "UnitsPerAUD": 3.7636747146
+            },
+            "DOP": {
+                "AUDPerUnit": 0.044714589,
+                "UnitsPerAUD": 22.3640655793
+            },
+            "XCD": {
+                "AUDPerUnit": 0.5926792003,
+                "UnitsPerAUD": 1.6872534069
+            },
+            "EGP": {
+                "AUDPerUnit": 0.2831384728,
+                "UnitsPerAUD": 3.5318407631
+            },
+            "EEK": {
+                "AUDPerUnit": 0.1265120023,
+                "UnitsPerAUD": 7.9043883741
+            },
+            "FJD": {
+                "AUDPerUnit": 0.8519663344,
+                "UnitsPerAUD": 1.1737552995
+            },
+            "XAU": {
+                "AUDPerUnit": 1165.4987941834,
+                "UnitsPerAUD": 0.0008580017
+            },
+            "HKD": {
+                "AUDPerUnit": 0.2026217151,
+                "UnitsPerAUD": 4.9353051784
+            },
+            "HUF": {
+                "AUDPerUnit": 0.0075714416,
+                "UnitsPerAUD": 132.075244728
+            },
+            "ISK": {
+                "AUDPerUnit": 0.0129212937,
+                "UnitsPerAUD": 77.3916314354
+            },
+            "XDR": {
+                "AUDPerUnit": 2.3296180597,
+                "UnitsPerAUD": 0.429254914
+            },
+            "IDR": {
+                "AUDPerUnit": 0.0001460189,
+                "UnitsPerAUD": 6848.4303114689
+            },
+            "IRR": {
+                "AUDPerUnit": 0.0001596325,
+                "UnitsPerAUD": 6264.3896548088
+            },
+            "IQD": {
+                "AUDPerUnit": 0.0013381795,
+                "UnitsPerAUD": 747.2839288856
+            },
+            "ILS": {
+                "AUDPerUnit": 0.4169374229,
+                "UnitsPerAUD": 2.3984414571
+            },
+            "JMD": {
+                "AUDPerUnit": 0.021813888,
+                "UnitsPerAUD": 45.8423550665
+            },
+            "JOD": {
+                "AUDPerUnit": 2.2183614801,
+                "UnitsPerAUD": 0.4507831609
+            },
+            "KES": {
+                "AUDPerUnit": 0.0196202358,
+                "UnitsPerAUD": 50.9677869858
+            },
+            "KWD": {
+                "AUDPerUnit": 5.8364915525,
+                "UnitsPerAUD": 0.1713358087
+            },
+            "LBP": {
+                "AUDPerUnit": 0.0010456724,
+                "UnitsPerAUD": 956.3224626377
+            },
+            "MYR": {
+                "AUDPerUnit": 0.4429578985,
+                "UnitsPerAUD": 2.2575508945
+            },
+            "MTL": {
+                "AUDPerUnit": 4.6109661201,
+                "UnitsPerAUD": 0.2168742892
+            },
+            "MUR": {
+                "AUDPerUnit": 0.0498603155,
+                "UnitsPerAUD": 20.0560303416
+            },
+            "MXN": {
+                "AUDPerUnit": 0.120019531,
+                "UnitsPerAUD": 8.3319772349
+            },
+            "MAD": {
+                "AUDPerUnit": 0.179075117,
+                "UnitsPerAUD": 5.5842487604
+            },
+            "NGN": {
+                "AUDPerUnit": 0.0133338987,
+                "UnitsPerAUD": 74.99682006
+            },
+            "NOK": {
+                "AUDPerUnit": 0.228979788,
+                "UnitsPerAUD": 4.3671976848
+            },
+            "OMR": {
+                "AUDPerUnit": 4.0800101019,
+                "UnitsPerAUD": 0.2450974324
+            },
+            "PKR": {
+                "AUDPerUnit": 0.0193542811,
+                "UnitsPerAUD": 51.6681553277
+            },
+            "XPD": {
+                "AUDPerUnit": 284.2783335337,
+                "UnitsPerAUD": 0.0035176793
+            },
+            "PEN": {
+                "AUDPerUnit": 0.5056664319,
+                "UnitsPerAUD": 1.9775882616
+            },
+            "PHP": {
+                "AUDPerUnit": 0.0319424173,
+                "UnitsPerAUD": 31.3063344748
+            },
+            "XPT": {
+                "AUDPerUnit": 1259.6457970325,
+                "UnitsPerAUD": 0.000793874
+            },
+            "PLN": {
+                "AUDPerUnit": 0.5345284152,
+                "UnitsPerAUD": 1.870807934
+            },
+            "QAR": {
+                "AUDPerUnit": 0.4316613847,
+                "UnitsPerAUD": 2.3166306633
+            },
+            "RON": {
+                "AUDPerUnit": 0.5346499015,
+                "UnitsPerAUD": 1.8703828377
+            },
+            "RUB": {
+                "AUDPerUnit": 0.0576846547,
+                "UnitsPerAUD": 17.3356329333
+            },
+            "SAR": {
+                "AUDPerUnit": 0.4193781398,
+                "UnitsPerAUD": 2.3844828928
+            },
+            "XAG": {
+                "AUDPerUnit": 14.0337103161,
+                "UnitsPerAUD": 0.0712569932
+            },
+            "SGD": {
+                "AUDPerUnit": 1.0526238233,
+                "UnitsPerAUD": 0.9500069995
+            },
+            "SKK": {
+                "AUDPerUnit": 0.0652036119,
+                "UnitsPerAUD": 15.3365736975
+            },
+            "KRW": {
+                "AUDPerUnit": 0.0010899953,
+                "UnitsPerAUD": 917.4351711608
+            },
+            "LKR": {
+                "AUDPerUnit": 0.0145385535,
+                "UnitsPerAUD": 68.7826335811
+            },
+            "SDG": {
+                "AUDPerUnit": 0.70960312,
+                "UnitsPerAUD": 1.4092384486
+            },
+            "SEK": {
+                "AUDPerUnit": 0.1981401845,
+                "UnitsPerAUD": 5.0469318096
+            },
+            "TWD": {
+                "AUDPerUnit": 0.0468038776,
+                "UnitsPerAUD": 21.3657511001
+            },
+            "THB": {
+                "AUDPerUnit": 0.0449009654,
+                "UnitsPerAUD": 22.2712360578
+            },
+            "TTD": {
+                "AUDPerUnit": 0.2574542968,
+                "UnitsPerAUD": 3.8841845428
+            },
+            "TND": {
+                "AUDPerUnit": 1.1422544961,
+                "UnitsPerAUD": 0.8754616448
+            },
+            "TRY": {
+                "AUDPerUnit": 1.0163251251,
+                "UnitsPerAUD": 0.9839371037
+            },
+            "AED": {
+                "AUDPerUnit": 0.4278164964,
+                "UnitsPerAUD": 2.3374507724
+            },
+            "VEF": {
+                "AUDPerUnit": 0.731430139,
+                "UnitsPerAUD": 1.3671845699
+            },
+            "VND": {
+                "AUDPerUnit": 0.0000935995,
+                "UnitsPerAUD": 10683.8155280029
+            },
+            "ZMK": {
+                "AUDPerUnit": 0.0003359572,
+                "UnitsPerAUD": 2976.5695808142
+            }
+        }
+    },
+    {
+        "Date": "2008-11-02",
+        "CurrencyCode": {
+            "USD": {
+                "AUDPerUnit": 1.494099992,
+                "UnitsPerAUD": 0.6692992473
+            },
+            "EUR": {
+                "AUDPerUnit": 1.9073668015,
+                "UnitsPerAUD": 0.5242830059
+            },
+            "GBP": {
+                "AUDPerUnit": 2.4057838434,
+                "UnitsPerAUD": 0.4156649413
+            },
+            "CAD": {
+                "AUDPerUnit": 1.2352017364,
+                "UnitsPerAUD": 0.8095843541
+            },
+            "AUD": {
+                "AUDPerUnit": 1,
+                "UnitsPerAUD": 1
+            },
+            "JPY": {
+                "AUDPerUnit": 0.0151368289,
+                "UnitsPerAUD": 66.0640354313
+            },
+            "INR": {
+                "AUDPerUnit": 0.0302909268,
+                "UnitsPerAUD": 33.0131859555
+            },
+            "NZD": {
+                "AUDPerUnit": 0.8733852486,
+                "UnitsPerAUD": 1.1449701052
+            },
+            "CHF": {
+                "AUDPerUnit": 1.2909496646,
+                "UnitsPerAUD": 0.7746235406
+            },
+            "ZAR": {
+                "AUDPerUnit": 0.1523981867,
+                "UnitsPerAUD": 6.5617578625
+            },
+            "AFN": {
+                "AUDPerUnit": 0.0318880409,
+                "UnitsPerAUD": 31.3597189479
+            },
+            "ALL": {
+                "AUDPerUnit": 0.0153980923,
+                "UnitsPerAUD": 64.9431099103
+            },
+            "DZD": {
+                "AUDPerUnit": 0.0222983353,
+                "UnitsPerAUD": 44.8463971459
+            },
+            "ARS": {
+                "AUDPerUnit": 0.4459533496,
+                "UnitsPerAUD": 2.2423870139
+            },
+            "BSD": {
+                "AUDPerUnit": 1.494099992,
+                "UnitsPerAUD": 0.6692992473
+            },
+            "BHD": {
+                "AUDPerUnit": 3.9626045928,
+                "UnitsPerAUD": 0.2523592694
+            },
+            "BDT": {
+                "AUDPerUnit": 0.0217323636,
+                "UnitsPerAUD": 46.0143231633
+            },
+            "BBD": {
+                "AUDPerUnit": 0.7489223,
+                "UnitsPerAUD": 1.3352520015
+            },
+            "BMD": {
+                "AUDPerUnit": 1.494099992,
+                "UnitsPerAUD": 0.6692992473
+            },
+            "BRL": {
+                "AUDPerUnit": 0.6901154823,
+                "UnitsPerAUD": 1.4490328441
+            },
+            "BGN": {
+                "AUDPerUnit": 0.9698169493,
+                "UnitsPerAUD": 1.0311224203
+            },
+            "XOF": {
+                "AUDPerUnit": 0.0029077619,
+                "UnitsPerAUD": 343.9071076828
+            },
+            "XAF": {
+                "AUDPerUnit": 0.0029077619,
+                "UnitsPerAUD": 343.9071076828
+            },
+            "XPF": {
+                "AUDPerUnit": 0.0159837338,
+                "UnitsPerAUD": 62.5636045193
+            },
+            "CLP": {
+                "AUDPerUnit": 0.0022275065,
+                "UnitsPerAUD": 448.9324700979
+            },
+            "CNY": {
+                "AUDPerUnit": 0.2184197089,
+                "UnitsPerAUD": 4.5783414183
+            },
+            "COP": {
+                "AUDPerUnit": 0.0006268513,
+                "UnitsPerAUD": 1595.2747558379
+            },
+            "CRC": {
+                "AUDPerUnit": 0.0026764714,
+                "UnitsPerAUD": 373.6262652927
+            },
+            "HRK": {
+                "AUDPerUnit": 0.2665893652,
+                "UnitsPerAUD": 3.7510873678
+            },
+            "CYP": {
+                "AUDPerUnit": 3.2589296663,
+                "UnitsPerAUD": 0.306849212
+            },
+            "CZK": {
+                "AUDPerUnit": 0.0793088806,
+                "UnitsPerAUD": 12.6089284325
+            },
+            "DKK": {
+                "AUDPerUnit": 0.2561174573,
+                "UnitsPerAUD": 3.9044585663
+            },
+            "DOP": {
+                "AUDPerUnit": 0.0423924298,
+                "UnitsPerAUD": 23.58911732
+            },
+            "XCD": {
+                "AUDPerUnit": 0.5702673367,
+                "UnitsPerAUD": 1.7535635229
+            },
+            "EGP": {
+                "AUDPerUnit": 0.2688497109,
+                "UnitsPerAUD": 3.7195502145
+            },
+            "EEK": {
+                "AUDPerUnit": 0.121902645,
+                "UnitsPerAUD": 8.203267451
+            },
+            "FJD": {
+                "AUDPerUnit": 0.8381812527,
+                "UnitsPerAUD": 1.1930593732
+            },
+            "XAU": {
+                "AUDPerUnit": 1080.3089810061,
+                "UnitsPerAUD": 0.0009256611
+            },
+            "HKD": {
+                "AUDPerUnit": 0.1927597364,
+                "UnitsPerAUD": 5.1878053938
+            },
+            "HUF": {
+                "AUDPerUnit": 0.0074203358,
+                "UnitsPerAUD": 134.7647912997
+            },
+            "ISK": {
+                "AUDPerUnit": 0.0123637717,
+                "UnitsPerAUD": 80.8814675348
+            },
+            "XDR": {
+                "AUDPerUnit": 2.1681000867,
+                "UnitsPerAUD": 0.4612333195
+            },
+            "IDR": {
+                "AUDPerUnit": 0.0001359731,
+                "UnitsPerAUD": 7354.3939820997
+            },
+            "IRR": {
+                "AUDPerUnit": 0.0001480773,
+                "UnitsPerAUD": 6753.2291906511
+            },
+            "IQD": {
+                "AUDPerUnit": 0.0012712499,
+                "UnitsPerAUD": 786.6274053016
+            },
+            "ILS": {
+                "AUDPerUnit": 0.3952645482,
+                "UnitsPerAUD": 2.5299511546
+            },
+            "JMD": {
+                "AUDPerUnit": 0.0196268519,
+                "UnitsPerAUD": 50.9506059872
+            },
+            "JOD": {
+                "AUDPerUnit": 2.102885332,
+                "UnitsPerAUD": 0.4755371036
+            },
+            "KES": {
+                "AUDPerUnit": 0.0188529967,
+                "UnitsPerAUD": 53.0419653451
+            },
+            "KWD": {
+                "AUDPerUnit": 5.5165415832,
+                "UnitsPerAUD": 0.1812729923
+            },
+            "LBP": {
+                "AUDPerUnit": 0.0009940785,
+                "UnitsPerAUD": 1005.9567429267
+            },
+            "MYR": {
+                "AUDPerUnit": 0.4219310367,
+                "UnitsPerAUD": 2.3700555612
+            },
+            "MTL": {
+                "AUDPerUnit": 4.4429694887,
+                "UnitsPerAUD": 0.2250746944
+            },
+            "MUR": {
+                "AUDPerUnit": 0.0474694199,
+                "UnitsPerAUD": 21.0661938074
+            },
+            "MXN": {
+                "AUDPerUnit": 0.1164990245,
+                "UnitsPerAUD": 8.583762864
+            },
+            "MAD": {
+                "AUDPerUnit": 0.1723497439,
+                "UnitsPerAUD": 5.8021554167
+            },
+            "NGN": {
+                "AUDPerUnit": 0.0126941379,
+                "UnitsPerAUD": 78.7765191883
+            },
+            "NOK": {
+                "AUDPerUnit": 0.2223860572,
+                "UnitsPerAUD": 4.4966847851
+            },
+            "OMR": {
+                "AUDPerUnit": 3.8801743861,
+                "UnitsPerAUD": 0.2577203756
+            },
+            "PKR": {
+                "AUDPerUnit": 0.018377613,
+                "UnitsPerAUD": 54.4140308446
+            },
+            "XPD": {
+                "AUDPerUnit": 296.5788484203,
+                "UnitsPerAUD": 0.0033717846
+            },
+            "PEN": {
+                "AUDPerUnit": 0.4828555706,
+                "UnitsPerAUD": 2.0710126608
+            },
+            "PHP": {
+                "AUDPerUnit": 0.0304946371,
+                "UnitsPerAUD": 32.792651269
+            },
+            "XPT": {
+                "AUDPerUnit": 1228.9521649295,
+                "UnitsPerAUD": 0.0008137013
+            },
+            "PLN": {
+                "AUDPerUnit": 0.5404013692,
+                "UnitsPerAUD": 1.8504764367
+            },
+            "QAR": {
+                "AUDPerUnit": 0.4102416031,
+                "UnitsPerAUD": 2.4375879784
+            },
+            "RON": {
+                "AUDPerUnit": 0.5204110038,
+                "UnitsPerAUD": 1.9215581389
+            },
+            "RUB": {
+                "AUDPerUnit": 0.055175597,
+                "UnitsPerAUD": 18.1239543165
+            },
+            "SAR": {
+                "AUDPerUnit": 0.398108178,
+                "UnitsPerAUD": 2.511880075
+            },
+            "XAG": {
+                "AUDPerUnit": 14.7317058247,
+                "UnitsPerAUD": 0.0678808016
+            },
+            "SGD": {
+                "AUDPerUnit": 1.0074848054,
+                "UnitsPerAUD": 0.9925708007
+            },
+            "SKK": {
+                "AUDPerUnit": 0.0626719798,
+                "UnitsPerAUD": 15.9560939824
+            },
+            "KRW": {
+                "AUDPerUnit": 0.001172027,
+                "UnitsPerAUD": 853.2226793003
+            },
+            "LKR": {
+                "AUDPerUnit": 0.0135261632,
+                "UnitsPerAUD": 73.930794852
+            },
+            "SDG": {
+                "AUDPerUnit": 0.6768136586,
+                "UnitsPerAUD": 1.4775115533
+            },
+            "SEK": {
+                "AUDPerUnit": 0.1935918155,
+                "UnitsPerAUD": 5.1655076286
+            },
+            "TWD": {
+                "AUDPerUnit": 0.0452936009,
+                "UnitsPerAUD": 22.0781739796
+            },
+            "THB": {
+                "AUDPerUnit": 0.0427278062,
+                "UnitsPerAUD": 23.4039630955
+            },
+            "TTD": {
+                "AUDPerUnit": 0.2402089916,
+                "UnitsPerAUD": 4.1630414967
+            },
+            "TND": {
+                "AUDPerUnit": 1.0912211664,
+                "UnitsPerAUD": 0.9164045116
+            },
+            "TRY": {
+                "AUDPerUnit": 0.9706990345,
+                "UnitsPerAUD": 1.0301854277
+            },
+            "AED": {
+                "AUDPerUnit": 0.4067293675,
+                "UnitsPerAUD": 2.4586373149
+            },
+            "VEF": {
+                "AUDPerUnit": 0.6958040293,
+                "UnitsPerAUD": 1.4371862736
+            },
+            "VND": {
+                "AUDPerUnit": 0.0000884554,
+                "UnitsPerAUD": 11305.1335854242
+            },
+            "ZMK": {
+                "AUDPerUnit": 0.0003175558,
+                "UnitsPerAUD": 3149.0529583459
+            }
+        }
+    }
+]
