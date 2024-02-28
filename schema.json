@@ -1,0 +1,30 @@
+{
+    "$jsonSchema": {
+        "bsonType": "object",
+        "required": [
+            "Date",
+            "CurrencyCode"
+        ],
+        "properties": {
+            "Date": {"bsonType": "date"},
+            "CurrencyCode": {
+                "bsonType": "object",
+                "additionalProperties": {
+                    "bsonType": "object",
+                    "required": [
+                        "AUDPerUnit",
+                        "UnitsPerAUD"
+                    ],
+                    "properties": {
+                        "AUDPerUnit": {
+                            "bsonType": "decimal"
+                        },
+                        "UnitsPerAUD": {
+                            "bsonType": "decimal"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
