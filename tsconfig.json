@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "noEmitHelpers": true, // Avoid emitting helper functions in every file, reducing redundancy
+    "importHelpers": true, // Import TypeScript helper functions from 'tslib' instead of including them in every file
+    "types": []
+  },
+  "exclude": ["node_modules", "./node_modules"]
+}
